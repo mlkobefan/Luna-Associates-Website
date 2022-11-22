@@ -49,16 +49,14 @@ a {
 
 video {
     min-width: 100%;
-    /* min-height: 100%; */
     width: auto;
-    /* height: auto; */
     z-index: -1;
     filter: opacity(80%);
 }
 
 .videohead {
     display: flex;
-    transform: translateY(-400px);
+    transform: translateY(-325px);
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
@@ -66,7 +64,7 @@ video {
 }
 
 .videotext {
-    transform: translateY(-400px);
+    transform: translateY(-325px);
     font-size: 18px;
     font-weight: 900;
     color: #E5E7EB;
