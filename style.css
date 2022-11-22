@@ -56,7 +56,7 @@ video {
 
 .videohead {
     display: flex;
-    transform: translateY(-325px);
+    transform: translateY(-400px);
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
@@ -64,7 +64,7 @@ video {
 }
 
 .videotext {
-    transform: translateY(-325px);
+    transform: translateY(-400px);
     font-size: 18px;
     font-weight: 900;
     color: #E5E7EB;
