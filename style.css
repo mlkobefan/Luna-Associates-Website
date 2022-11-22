@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    flex: 0;
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -113,7 +114,8 @@ video {
     justify-content: center;
     width: 100%;
     background-color: #E5E7EB;
-    padding: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .section2text {
